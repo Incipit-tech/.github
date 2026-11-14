@@ -5,21 +5,39 @@
   </picture>
 </p>
 
-<p align="center"><b>L'assistente che accompagna gli uffici comunali prima di avviare un procedimento.</b></p>
+<h3 align="center">Ogni procedimento parte da un buon inizio.</h3>
+
+<p align="center">Incipit è l'assistente AI che aiuta i dipendenti comunali a impostare bene un procedimento amministrativo, prima ancora di scrivere il primo atto.</p>
 
 ---
 
-Ogni procedimento amministrativo comincia con le stesse domande: quali norme si applicano, quali vincoli e scadenze vanno rispettati, quali atti servono e se qualcun altro nell'ente ha già affrontato un caso simile. Oggi le risposte sono sparse tra normativa, regolamenti interni e l'esperienza dei colleghi.
+### Il problema
 
-**Incipit** è un assistente basato sull'intelligenza artificiale pensato per i **dipendenti comunali**. Prima di avviare un procedimento aiuta a inquadrare il caso con alcune domande mirate, individua **norme, vincoli e scadenze citando sempre la fonte**, prepara una **checklist** dei passaggi e segnala **procedimenti analoghi** già gestiti da altri uffici. Non sostituisce il giudizio di chi lavora nell'ente e non si sovrappone ai gestionali già in uso: lo affianca nella fase in cui si decide come procedere.
+Davanti a un nuovo procedimento le domande sono sempre le stesse: *quali norme si applicano? Quali scadenze vanno rispettate? Che atti servono? Qualcuno in comune ha già gestito un caso simile?*
 
-## A che punto siamo
+Oggi le risposte sono sparse tra leggi, regolamenti interni e la memoria dei colleghi più esperti. Trovarle richiede tempo, e quando manca un pezzo l'errore emerge a procedimento già avviato.
 
-Incipit è in **fase iniziale**. Stiamo lavorando con gli uffici **cultura e biblioteca** come primo ambito, partendo da un'analisi degli atti già prodotti dall'ente per capire dove l'assistente può essere davvero utile. Se lavori in un comune e il tema ti interessa, ci farebbe piacere sentirti.
+### Cosa fa Incipit
 
-## Chi siamo
+- 🧭 **Inquadra il caso** con poche domande mirate
+- 📚 **Trova norme, vincoli e scadenze**, sempre con la fonte citata
+- ✅ **Prepara una checklist** dei passaggi da seguire
+- 🔁 **Segnala i procedimenti analoghi** già gestiti da altri uffici dell'ente
 
-Incipit è fondata da **Riccardo Mello** ([@DetectiveOwl](https://github.com/DetectiveOwl)), prodotto e AI, e **Nassim Lemouaden**, tecnologia e operations.
+Incipit non decide al posto di nessuno e non sostituisce i gestionali già in uso. Mette a disposizione di chi lavora in comune le informazioni giuste nel momento in cui servono: quando si decide come procedere.
+
+### A che punto siamo
+
+Siamo all'inizio, e lo diciamo apertamente. Il primo ambito su cui lavoriamo è quello degli uffici **cultura e biblioteca**: stiamo analizzando gli atti già prodotti dall'ente per capire dove Incipit può fare davvero la differenza.
+
+**Lavori in un comune?** Ci farebbe piacere conoscere il tuo punto di vista. Scrivici tramite i profili qui sotto.
+
+### Il team
+
+| | |
+|---|---|
+| **Riccardo Mello** · [@DetectiveOwl](https://github.com/DetectiveOwl) | Prodotto e AI |
+| **Nassim Lemouaden** · [@nassim2345](https://github.com/nassim2345) | Tecnologia e operations |
 
 <br>
 <p align="center">
